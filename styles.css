@@ -1,0 +1,59 @@
+body {
+    background: #edecf3;
+    font-family: 'Roboto', sans-serif;
+}
+
+.avatar {
+    width: 250px;
+    border-radius: 33px;
+}
+
+a {
+    color: rgb(16, 16, 83);
+    text-decoration: none;
+}
+
+.card {
+    font-family: 'Roboto', sans-serif;
+    padding: 15px 20px;
+    background-color: #d9dbdd;
+    margin: 20px 0px;
+    border-radius: 25px;
+}
+
+.card li {
+    padding: 1px;
+    margin-left: -20px;
+}
+
+table {
+    width: 100%;
+}
+
+table,
+td,
+th {
+    text-align: left;
+}
+
+.info {
+    display: flex;
+}
+
+.infotext {
+    margin-left: 40px;
+}
+
+table,
+tr {
+    line-height: 30px;
+}
+
+.socialmedia {
+    width: 24px;
+    margin: 0px 8px;
+}
+
+.delenie {
+    font-size: 37px;
+}
